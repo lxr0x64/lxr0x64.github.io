@@ -28,13 +28,13 @@ description: >-
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://lichroot.github.io"
+url: "https://lxr0x64.github.io"
 
 github:
-  username: LichRoot # change to your GitHub username
+  username: lxr0x64 # change to your GitHub username
 
 twitter:
-  username: L1chRoot # change to your Twitter username
+  username: lxr0x64 # change to your Twitter username
 
 social:
   # Change to your full name.
