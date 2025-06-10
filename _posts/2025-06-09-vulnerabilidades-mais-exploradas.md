@@ -3,7 +3,7 @@ layout: post
 title: "As 10 vulnerabilidades mais exploradas (OWASP Top 10)"
 date: 2025-06-09 18:00:00 -0300
 categories: segurança-web
-tags: [owasp, segurança, bugbounty, hacking, pentest]
+tags: [owasp, seguranca web, bugbounty, hacking, pentest]
 ---
 
 # As 10 vulnerabilidades mais exploradas (OWASP Top 10)

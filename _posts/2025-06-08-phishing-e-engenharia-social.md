@@ -3,7 +3,7 @@ layout: post
 title: "Phishing e Engenharia Social: A Arte da Manipulação"
 date: 2025-06-08 18:00:00 -0300
 categories: engenharia-social
-tags: [phishing, engenharia-social, bugbounty]
+tags: [phishing, engenharia-social, bugbounty,]
 ---
 
 <div style="max-width: 100%; text-align: center; margin: 2rem 0;">
