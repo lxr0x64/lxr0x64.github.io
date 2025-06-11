@@ -3,7 +3,7 @@ layout: post
 title: "As 10 vulnerabilidades mais exploradas (OWASP Top 10)"
 date: 2025-06-09 18:00:00 -0300
 categories: segurança-web
-tags: [owasp, seguranca web, bugbounty, hacking, pentest]
+tags: [owasp, seguranca-web, bugbounty, hacking, pentest]
 ---
 
 # As 10 vulnerabilidades mais exploradas (OWASP Top 10)
@@ -16,7 +16,7 @@ Se você quer entrar no mundo do hacking ou já tá no corre com Bug Bounty, ent
 **O que é:** Quando usuários conseguem acessar dados ou funções que não deviam.
 
 **Exemplo clássico:** Um usuário comum acessa `/admin` e ganha painel de admin.
-**Outro exemplo:** Alterar seu ID para acessar info de outro usuário: `/user/123` → `/user/124`.
+**Outro exemplo:** Alterar seu ID para acessar info de outro usuário: `/user/123` → `/user/124`
 
 **Casos reais:** Muitas APIs não fazem a checagem correta do dono do recurso. Se você manda um PUT em `/api/v1/profile/444` e a API atualiza, mesmo você sendo o 123, tá quebrado.
 
