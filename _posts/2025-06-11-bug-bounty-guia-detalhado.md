@@ -6,7 +6,11 @@ categories: bug bounty
 tags: ["bug bounty", "seguranca-web", "hacking ético", "guia completo"]
 ---
 
-# Bug Bounty: Como começar do zero (com dicas reais e práticas)
+<div style="max-width: 100%; text-align: center; margin: 2rem 0;">
+  <img src="/assets/img/bug-bounty-guia/banner.gif" 
+       alt="Banner sobre Engenharia Social" 
+       style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;" />
+</div>
 
 Quer entrar no mundo do Bug Bounty, mas não sabe nem por onde começar?  
 Relaxa, esse guia é feito pra você — explicando **passo a passo**, com dicas práticas, atalhos certos (sem pular aprendizado) e o **mindset real** que vai te ajudar a encontrar vulnerabilidades de verdade.

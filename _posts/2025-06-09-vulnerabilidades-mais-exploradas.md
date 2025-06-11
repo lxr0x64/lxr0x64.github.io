@@ -6,7 +6,11 @@ categories: segurança-web
 tags: [owasp, seguranca-web, bugbounty, hacking, pentest]
 ---
 
-# As 10 vulnerabilidades mais exploradas (OWASP Top 10)
+<div style="max-width: 100%; text-align: center; margin: 2rem 0;">
+  <img src="/assets/img/vulnerabilidades-mais-exploradas/banner.png" 
+       alt="Banner sobre Engenharia Social" 
+       style="width: 100%; max-width: 1200px; height: auto; border-radius: 8px;" />
+</div>
 
 Se você quer entrar no mundo do hacking ou já tá no corre com Bug Bounty, entender o **OWASP Top 10** é tipo aprender o ABC do jogo. Esse ranking mostra as vulnerabilidades de segurança mais comuns (e mais exploradas) em aplicações web. Bora ver uma por uma, com exemplos e dicas de como identificar?
 
