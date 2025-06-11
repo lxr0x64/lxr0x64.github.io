@@ -166,5 +166,3 @@ Se você quer entrar no mundo do hacking ou já tá no corre com Bug Bounty, ent
 Aprender essas 10 falhas é tipo ganhar um mapa do tesouro. A maioria dos bugs encontrados em programas de Bug Bounty nascem aqui. Quanto mais você praticar, mais rápido vai identificar essas falhas no mundo real.
 
 Treina sua mente pra pensar como atacante: "e se eu tentar mudar isso aqui?", "o que acontece se eu repetir esse passo?", "tem algo que tá sendo confiado demais no cliente?" esse é o mindset.
-
-Quer um quiz rápido pra validar o que você aprendeu?
