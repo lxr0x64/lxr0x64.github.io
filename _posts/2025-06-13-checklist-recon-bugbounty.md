@@ -3,7 +3,7 @@ layout: post
 title: "Checklist de Recon básico pra Bug Bounty"
 date: 2025-06-13
 categories: bug bounty
-tags: [recon, bugbounty, hacking, wordlists, ferramentas]
+tags: [ "recon", "bugbounty", "hacking", "wordlists", "ferramentas" ]
 ---
 
 
