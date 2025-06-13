@@ -2,7 +2,7 @@
 layout: post
 title: "Como o Pomofocus Aumenta Minha Produtividade no Bug Bounty"
 date: 2025-06-13
-categories: bug bounty
+categories: bugbounty
 tags: ["pomofocus", "bugbounty", "produtividade", "hacking", "pomodoro"]
 ---
 

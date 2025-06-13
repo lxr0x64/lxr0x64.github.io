@@ -2,8 +2,8 @@
 layout: post
 title: "Bug Bounty: Como começar do zero (com dicas reais e práticas)"
 date: 2025-06-11
-categories: bug bounty
-tags: ["bug bounty", "seguranca-web", "hacking ético", "guia completo"]
+categories: bugbounty
+tags: ["bugbounty", "seguranca-web", "hacking ético", "guia completo"]
 ---
 
 <div style="max-width: 100%; text-align: center; margin: 2rem 0;">
