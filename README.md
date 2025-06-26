@@ -1,43 +1,52 @@
-# Chirpy Starter
+# Meu Blog
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Este blog foi feito com o tema **Chirpy** para Jekyll.
+Criado e mantido por mim. 🚀
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+---
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 📦 Dependências
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+Você precisa ter instalado em seu sistema:
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+* **Ruby** (versão 2.5 ou superior)
+* **Bundler** (`gem install bundler`)
+* **Jekyll** (`gem install jekyll`)
+* **Git** para clonar o repositório
+
+---
+
+## ⚡ Como iniciar o site
+
+### 1️⃣ Clone o repositório:
+
+```bash
+git clone https://github.com/lxr0x64/lxr0x64.github.io
+cd seu-repositorio
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### 2️⃣ Instale as dependências:
 
-## Usage
+```bash
+bundle install
+```
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### 3️⃣ Rode o servidor local:
 
-## Contributing
+```bash
+bundle exec jekyll serve
+```
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+💡 O site ficará disponível em: `http://localhost:4000`
 
-## License
+---
 
-This work is published under [MIT][mit] License.
+## 📝 Sobre
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Esse blog foi feito por mim e utiliza o tema [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), que dá uma base simples e personalizável para Jekyll.
+
+---
+
+## 📜 Licença
+
+Esse projeto segue a licença [MIT](https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE).
